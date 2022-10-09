@@ -1,29 +1,33 @@
 ---
-title: "Untitled"
-output: html_document
-date: "2022-10-09"
+title: "Work Experience"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+## Grand Valley State University - Researcher (April 2022 - April 2023)
+
+Worked with a team to reproduce historical graphs using numerous different R packages. This was done to be able to "mask" certain parts of graphs (such as the title, x-axis, certain data points, labels) for teachers to use for educating students. This also involved managing tasks and organizing the data and final graphs for other members of the team to accomplish their tasks. Work was also well documented and organised in Github.  
+  
+Work Repository: https://github.com/RBY1100/Slow_Reveal_Graphs
+  
+### Example of Recreated Graph
+```{r fig.width=8, fig.height=8,echo=FALSE}
+
+library(vembedr)
+library(png)
+library(grid)
+
+img <- readPNG(here::here("nap.PNG"))
+grid.raster(img)
+
 ```
 
-## R Markdown
+This work also entailed creating a new package in R that allows someone to easily hide whatever they want to hide by using a newly created function called "hide()". This package is tweaked when needed for different tasks.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Package Repository: https://github.com/RBY1100/srtools_package
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Grand Valley State University - Statistics Tutor (August 2022 - April 2023)
 
-```{r cars}
-summary(cars)
-```
+Worked in the Statistic Departments walk-in tutoring center. I was there to answer any questions students had for the various different Statistics classes that were offered at GVSU. The help needed varied from basic level classes to the graduate classes.  
 
-## Including Plots
+## Walmart Corporation - CAP 2 Associate (March 2020 - August 2022)
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Worked primarily in the backroom of Walmart. The CAP 2 team was responsible for unloading the truck. But we were primarily responsible for scanning in inventory and determining what needed to go out onto the sales floor and what needed to stay in the back and where it needed to stay. When needed, we would also stock the floor when the other teams were behind.

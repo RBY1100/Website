@@ -7,8 +7,8 @@ library(vembedr)
 library(png)
 library(grid)
 
-#img <- readPNG(here::here("Robert-picture.PNG"))
-#grid.raster(img)
+img <- readPNG(here::here("Robert-picture.PNG"))
+grid.raster(img)
 
 ```
 

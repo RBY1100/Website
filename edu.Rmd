@@ -1,29 +1,66 @@
 ---
-title: "Untitled"
-output: html_document
-date: "2022-10-09"
+title: "Education"
 ---
+```{r fig.width=3, fig.height=3,echo=FALSE}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+library(vembedr)
+library(png)
+library(grid)
+
+img <- readPNG(here::here("gvsu.png"))
+grid.raster(img)
+
 ```
 
-## R Markdown
+## Grand Valley State University
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+BS in Statistics (anticipated 2023)  
+* minor in Economics  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+MS in Applied Statistics (anticipated 2024)
 
-```{r cars}
-summary(cars)
+### Student Initiated Combined Degree
+I am currently enrolled in a student initiated combined degree program (SICD). This mean I am currently taking both graduate and undergraduate courses which will allow me to achieve my MS one year earlier than would be normal.
+
+### Notable Achievements
+
+Deans List 2020 - 2021 - 2022: This requires maintaining a GPA of at least 3.5 throughout the school year   
+  
+Maintaining a GPA above 3.8 throughout University  
+
+### Extracuricular Activities
+
+Statistics Club: A club meeting monthly that discussed statistics and gave opportunites to meet with potential employers and former alumni. 
+
+Model UN: Club meeting weekly that prepared for the Model UN a yearly event where different schools sent "delegates" from different countries to meet and simulate a UN meeting to resolve a designated issue
+  
+  
+```{r fig.width=3, fig.height=3,echo=FALSE}
+
+img <- readPNG(here::here("fhs.png"))
+grid.raster(img)
+
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
+## Fowlerville High School
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+High School Diploma (2019)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Notable Achievements
+
+Academic Letter (2015-2019) - awarded for maintaining a high GPA of 3.5 throughout High School  
+
+VFW Scholarship - awarded in an essay competition where the best essay about why it was important to vote
+
+Outstanding Achievement in Biology and US History - awarded to one student in that year for oustanding achievement in a specific class
+
+### Extracuricular Activites
+
+Robotics Club - worked to design a robot to accomplish a certain task involved collecting data on other robots to build your alliances later on in the competition 
+
+National Honor Society (NHS) - worked to do community work and projects while maintaining good academic performance
+
+Jazz Band - a bi-weekly club that met and practiced jazz music to eventually perform at certain music festivals later in the year
+
+Brass Quintet - a weekly club that met and practiced quintet music for performances also caroling on Christmas 

@@ -11,6 +11,6 @@ navbar:
       href: edu.html
     - text: "Work Experience"
       href: work.html
-    - text: "Other"
+    - text: "Skills"
       href: other.html
 output: distill::distill_article
