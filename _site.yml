@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "Education"
       href: edu.html
-    - text: "Work Expirience"
+    - text: "Work Experience"
       href: work.html
     - text: "Other"
       href: other.html

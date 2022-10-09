@@ -1,15 +1,21 @@
 ---
-title: "Robert Bilyk"
-description: |
-  Welcome to the website. I hope you enjoy it!
-site: distill::distill_website
+title: "About Me"
 ---
+```{r fig.width=6, fig.height=6,echo=FALSE}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+library(vembedr)
+library(png)
+library(grid)
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+img <- readPNG(here::here("Robert-picture.PNG"))
+ grid.raster(img)
 
 ```
 
+I am a current student at Grand Valley State University, majoring in Statistics with a minor in Economics. On top of this, I am also in a Student Initiated Combined Degree Program which means I am also taking classes to acquire a Masters degree in Applied Statistics.  
+  
+This work has given me a lot of experience using different statistical techniques and tests. I also have extensive knowledge with SAS, Microsoft Excel and particularly R.  
+  
+## My Objectives
+
+I hope to acquire more on the job experience using different statistical techniques. I am particularly looking for an internship/research opportunity that will help me deepen my understanding and knowledge on how statistics are used to improve the day to day work of a business. If possible, I would love to acquire more experience with data visualizations as I really enjoy work with those.
