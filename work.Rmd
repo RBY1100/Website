@@ -2,9 +2,9 @@
 title: "Work Experience"
 ---
 
-## Grand Valley State University - Researcher (April 2022 - current)
+## Grand Valley State University - Researcher (April 2022 - present)
 
-Worked with a team to reproduce historical graphs using numerous different R packages. This was done to be able to "mask" certain parts of graphs (such as the title, x-axis, certain data points, labels) for teachers to use for educating students. This also involved managing work and organizing the data and final graphs for other members of the team to accomplish their tasks. This work is well documented and organized in Github.  
+I am working with a team to reproduce historical graphs using numerous different R packages. This is done to be able to "mask" certain parts of graphs (such as the title, x-axis, certain data points, labels) for teachers to use for educating students. This also involves managing work and organizing the data and final graphs for other members of the team to accomplish their tasks. This work is well documented and organized in Github.  
   
 Work Repository: https://github.com/RBY1100/Slow_Reveal_Graphs
   
@@ -24,9 +24,9 @@ This work also entailed creating a new package in R that allows someone to easil
 
 Package Repository: https://github.com/RBY1100/srtools_package
 
-## Grand Valley State University - Statistics Tutor (August 2022 - current)
+## Grand Valley State University - Statistics Tutor (August 2022 - present)
 
-Worked in the Statistic Departments walk-in tutoring center. I was there to answer any questions students had for the various different Statistics classes that were offered at GVSU. The assistance needed varied from basic level classes to the graduate classes.  
+I'm working in the Statistic Departments walk-in tutoring center. I'm there to answer any questions students have for the various different Statistics classes that are offered at GVSU. The assistance needed varies from basic level classes to the graduate classes.  
 
 ## Walmart Corporation - CAP 2 Associate (March 2020 - August 2022 summer employment)
 

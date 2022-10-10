@@ -12,10 +12,10 @@ grid.raster(img)
 
 ```
 
-I am a current student at Grand Valley State University, majoring in Statistics with a minor in Economics. On top of this, I am also in a Student Initiated Combined Degree Program which gives me the ability to acquire a Masters degree in Applied Statistics while earning my undergraduate degree.  
+I am a current student at Grand Valley State University, majoring in Statistics with a minor in Economics. On top of this, I am also in a Student Initiated Combined Degree Program which will allow me to obtain a Masters degree in Applied Statistics while earning my undergraduate degree.  
   
-Through my experiences, I have gained a lot of experience using different statistical techniques and tests. I also have extensive knowledge with SAS, Microsoft Excel and particularly R.  
+Through my experiences, I have gained a lot of knowledge using different statistical techniques and tests. I also have extensive knowledge with SAS, Microsoft Excel and particularly R.  
   
 ## My Objectives
 
-I hope to acquire more on the job experience using different statistical techniques. I am particularly looking for an internship/research opportunity that will help me deepen my understanding and knowledge on how statistics is used to improve the day to day work of a business. Ideally, I would love to acquire more experience with data visualizations as that is an area I find particularly interesting.
+I hope to acquire more on the job experience using different statistical techniques. I am interested in obtaining an internship/research opportunity that will help me deepen my understanding and knowledge on how statistics is used to improve the day to day work of a business. Ideally, I would love to acquire more experience with data visualizations as that is an area I find particularly interesting.
