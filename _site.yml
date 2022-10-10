@@ -13,4 +13,10 @@ navbar:
       href: work.html
     - text: "Skills"
       href: other.html
+    - icon: fa fa-github
+      href: https://github.com/RBY1100
+    - icon: fa fa-envelope
+      href: mailto:RBY1100@gmail.com
 output: distill::distill_article
+toc: true
+theme: resumetheme.css
