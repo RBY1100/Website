@@ -20,19 +20,19 @@ BS in Statistics (anticipated 2023)
 MS in Applied Statistics (anticipated 2024)
 
 ### Student Initiated Combined Degree
-I am currently enrolled in a student initiated combined degree program (SICD). This mean I am currently taking both graduate and undergraduate courses which will allow me to achieve my MS one year earlier than would be normal.
+I am currently enrolled in a student initiated combined degree program (SICD) which enables me to take both graduate and undergraduate courses which will allow me to achieve my MS one year earlier than would be normal.
 
 ### Notable Achievements
 
-Deans List 2020 - 2021 - 2022: This requires maintaining a GPA of at least 3.5 throughout the school year   
+Dean's List 2020 - 2021 - 2022: This requires maintaining a GPA of at least 3.5 throughout the school year.  
   
-Maintaining a GPA above 3.8 throughout University  
+Maintaining a GPA above 3.8 throughout University (current GPA 3.87).
 
 ### Extracuricular Activities
 
-Statistics Club: A club meeting monthly that discussed statistics and gave opportunites to meet with potential employers and former alumni. 
+Statistics Club: A club that organizes many events including career and advising events, math/statistics software workshops, and social gatherings.
 
-Model UN: Club meeting weekly that prepared for the Model UN a yearly event where different schools sent "delegates" from different countries to meet and simulate a UN meeting to resolve a designated issue
+Model UN: A club that prepared us for the Model UN. This was a yearly event where different schools sent "delegates" from different countries to meet and simulate a UN meeting to resolve a designated issue.
   
   
 ```{r fig.width=3, fig.height=3,echo=FALSE}
@@ -45,22 +45,22 @@ grid.raster(img)
 
 ## Fowlerville High School
 
-High School Diploma (2019)
+High School Diploma (2019) - 4.03 GPA
 
 ### Notable Achievements
 
-Academic Letter (2015-2019) - awarded for maintaining a high GPA of 3.5 throughout High School  
+Academic Letter (2015-2019) - Awarded for maintaining a high GPA of 3.5 throughout High School.
 
-VFW Scholarship - awarded in an essay competition where the best essay about why it was important to vote
+VFW Scholarship (2019) - Awarded 1st place in an essay competition with the topic "Why is it important to vote?".
 
-Outstanding Achievement in Biology and US History - awarded to one student in that year for oustanding achievement in a specific class
+Outstanding Achievement in Biology and US History (2019) - Awarded to one student in that year for outstanding achievement in a specific class.
 
 ### Extracuricular Activites
 
-Robotics Club - worked to design a robot to accomplish a certain task involved collecting data on other robots to build your alliances later on in the competition 
+Robotics Club - This club worked to design a robot to accomplish a certain task involved collecting data on other robots to build your alliances later on in the competition.
 
-National Honor Society (NHS) - worked to do community work and projects while maintaining good academic performance
+National Honor Society (NHS) - This group did community work and projects while maintaining good academic performance.
 
-Jazz Band - a bi-weekly club that met and practiced jazz music to eventually perform at certain music festivals later in the year
+Jazz Band - This club met twice a week to practice jazz music that we would perform at certain music festivals later in the year.
 
-Brass Quintet - a weekly club that met and practiced quintet music for performances also caroling on Christmas 
+Brass Quintet - This was a weekly club that met and practiced quintet music for performances. We also caroled on Christmas.

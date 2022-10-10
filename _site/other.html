@@ -925,11 +925,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     font-size: 14px;
   }
 
-  /* tweak for Pandoc numbered line within distill */
-  d-article pre.numberSource code > span {
-      left: -2em;
-  }
-
   d-article pre {
     font-size: 14px;
   }
@@ -1766,9 +1761,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     $('.distill-force-highlighting-css').parent().remove();
 
     // remove empty line numbers inserted by pandoc when using a
-    // custom syntax highlighting theme, except when numbering line
-    // in code chunk
-    $('pre:not(.numberLines) code.sourceCode a:empty').remove();
+    // custom syntax highlighting theme
+    $('code.sourceCode a:empty').remove();
 
     // load distill framework
     load_distill_framework();
@@ -2391,7 +2385,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2457,13 +2451,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </ul>
 <h2 id="programming-skills">Programming Skills</h2>
 <ul>
-<li><p>Strong R experience - this includes experience in data cleaning, data management, statistical analysis, graph/table creation, syncing to a Git repository, package creation and website creation</p></li>
-<li><p>Strong SAS experience - including data cleaning, data management, and statistical analysis</p></li>
-<li><p>Moderate Excel experience - including data management, graph creation, and statistical analysis</p></li>
+<li><p>R experience - This includes experience in data cleaning, data management, statistical analysis, graph/table creation, syncing to a Git repository, package creation and website creation.</p></li>
+<li><p>SAS experience - This includes data cleaning, data management, and statistical analysis.</p></li>
+<li><p>Excel experience - This includes data management, graph creation, and statistical analysis.</p></li>
 </ul>
 <h2 id="soft-skills">Soft Skills</h2>
 <ul>
 <li>Problem Solving</li>
+<li>Teamwork</li>
 <li>Strong Work Ethic</li>
 <li>Organized</li>
 <li>Great Communication</li>

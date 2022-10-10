@@ -10,15 +10,16 @@ title: "Skills"
   
 ## Programming Skills
 
-* Strong R experience - this includes experience in data cleaning, data management, statistical analysis, graph/table creation, syncing to a Git repository, package creation and website creation
+* R experience - This includes experience in data cleaning, data management, statistical analysis, graph/table creation, syncing to a Git repository, package creation and website creation.
 
-* Strong SAS experience - including data cleaning, data management, and statistical analysis
+* SAS experience - This includes data cleaning, data management, and statistical analysis.
 
-* Moderate Excel experience - including data management, graph creation, and statistical analysis
+* Excel experience - This includes data management, graph creation, and statistical analysis.
 
 ## Soft Skills
 
 * Problem Solving
+* Teamwork
 * Strong Work Ethic
 * Organized
 * Great Communication
