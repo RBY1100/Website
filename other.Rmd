@@ -16,6 +16,10 @@ title: "Skills"
 
 * Excel - This includes data management, graph creation, and statistical analysis.
 
+* Python - This includes data management, graph creation, and running simulations.
+
+* SQL - This includes, data cleaning, data  management, and table/graphical creations.
+
 ## Soft Skills
 
 * Problem Solving
